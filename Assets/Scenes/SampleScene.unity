@@ -426,7 +426,7 @@ PrefabInstance:
     - target: {fileID: 5142433766297200015, guid: 4c3c0a2a3ee24ec4785505f40b1743e9,
         type: 3}
       propertyPath: <Radius>k__BackingField
-      value: 30
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c3c0a2a3ee24ec4785505f40b1743e9, type: 3}
